@@ -1,6 +1,4 @@
 //bank_employee
-
-
 #include<iostream>
 using namespace std;
 
