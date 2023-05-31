@@ -1,6 +1,5 @@
 /*Create a class called "Car" with attributes "make", "model", and "year". Create an object of
 the class and print out its attributes.*/
-
 #include<iostream>
 using namespace std;
 
