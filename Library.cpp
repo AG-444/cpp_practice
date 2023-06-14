@@ -1,5 +1,6 @@
 //small_library
 
+
 #include<iostream>
 #include<string.h>
 using namespace std;
